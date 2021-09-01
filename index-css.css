@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center; 
+    background-color: black;
+    padding-top: 1%;
+    padding-bottom: .5%;  
+}
+
+.info {
+    padding-right: 10%;
+    color: #ffffff;
+        
+}
+
+.galeria {
+    padding-left: 10%;
+    color: #ffffff;
+}
+
+.imgGallery {
+        background-color: white;
+        border-radius: 100%;
+        width: 2.5%;
+        height: 2.5%;
+}
+
+.imgIg {
+    background-color: white;
+    border-radius: 100%;
+    width: 2.5%;
+    height: 2.5%;
+}
+
+.imgLogo {
+    background-color: black;
+    width: 2.5%;
+    height: 2.5%;
+}
+
+
+.logo {
+    color: #ffffff;
+}
+
+main {
+    background-color: #11142b;
+    padding-bottom: 2%;
+}
+
+.ahi {
+    margin-top: 2%;
+}
+
+.red {
+    color: #db0b0b;
+}
+
+.tituloUno {
+    text-align: center;
+    padding-top: 3%;
+    font-size: 400%;
+    color: #ffffff;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+hr {
+    width: 40%;
+    margin-left: 29%
+}
+
+.subtitulo {
+    padding-top: 2%;
+    text-align: center;
+    font-size: 190%;
+    color: #ffffff;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+article {
+    text-align: center;
+    padding-bottom: 4%;
+    padding-top: 2%;
+    font-family: 'Pontano Sans', sans-serif;
+}
+
+.infoDos {
+    font-size: 150%;
+    margin-bottom: 2%;
+}
+
+.infoTres {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 190%;
+}
+
+.contenedorTrabajos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.filaDeTrabajos {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.text {
+    font-size: 100%;
+}
+
+.titulos {
+    padding-top: 20px;
+    font-size: 150%;
+}
+
+.img {
+    width: 70%;
+    height: 70%;
+    border-radius: 40%;
+    
+}
+
+footer {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    font-family: 'Pontano Sans', sans-serif;
+}
+
+.form {
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Pontano Sans', sans-serif;
+}
+
+.consulta {
+    padding-bottom: 2%;
+}
+
+.datos {
+    width: 30%;
+    margin: .5%;
+    font-size: 70%;
+}
+
+#text {
+    width: 30.1%;
+}
+
+.boton {
+    width: 30.5%;
+    font-size: 70%;
+    color: #ffffff;
+    background-color: black;
+}
+
+.boton:hover {
+    color: black;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.contacto {
+    text-align: center;
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: black;
+    color: #ffffff;
+}
+
+.contenedorInfoDos {
+    background-color: #ffffff;
+    color: black;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+
+
