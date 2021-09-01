@@ -182,3 +182,64 @@ footer {
 
 
 
+@media screen and (max-width: 600px) {
+    header {
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+    .imgGallery {
+        background-color: white;
+        border-radius: 100%;
+        width: 8%;
+        height: 8%;
+}
+
+.imgIg {
+    background-color: white;
+    border-radius: 100%;
+    width: 8%;
+    height: 8%;
+}
+
+.imgLogo {
+    background-color: black;
+    width: 8%;
+    height: 8%;
+}
+    
+    .contenedorTrabajos {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    .infoTres {
+        margin-top: 2%;
+        margin-bottom: 10%;
+    }
+
+    .filaDeTrabajos {
+        margin-bottom: 20%;
+    }
+
+    .datos {
+        width: 70%;
+        margin: .5%;
+        font-size: 70%;
+    }
+    
+    #text {
+        margin-top: 2%;
+        width: 70.1%;
+    }
+    
+    .boton {
+        margin-top: 2%;
+        margin-bottom: 4%;
+        width: 70.5%;
+        font-size: 70%;
+        color: #ffffff;
+        background-color: black;
+    }
+}
